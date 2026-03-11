@@ -3462,7 +3462,6 @@ def create_signup_page(root, bg_images):
     create_nav_button(background_label, bg_images, lambda: create_signup_page(root, bg_images))
 
 image_paths = {
-    # ใช้ชื่อโฟลเดอร์นำหน้าได้เลย ไม่ต้องมี D:\
     'main': "โปรเจ็คของใบหม่อน/1.png",
     'login': "โปรเจ็คของใบหม่อน/2.png",
     'signup': "โปรเจ็คของใบหม่อน/3.png",
