@@ -3463,41 +3463,35 @@ def create_signup_page(root, bg_images):
 
 
 image_paths = {
-        'main': "D:\\โปรเจ็คของใบหม่อน\\1.png",
-        'login': "D:\\โปรเจ็คของใบหม่อน\\2.png",
-        'signup': "D:\\โปรเจ็คของใบหม่อน\\3.png",
-        'about': "D:\\โปรเจ็คของใบหม่อน\\about.png",
-        'table': "D:\\โปรเจ็คของใบหม่อน\\table.png", 
-        'profile': "D:\\โปรเจ็คของใบหม่อน\\profile.png", 
-        'edit_profile': "D:\\โปรเจ็คของใบหม่อน\\editpf.png", 
-        'forgot_password': "D:\\โปรเจ็คของใบหม่อน\\forgotpw.png", 
-        'change_password': "D:\\โปรเจ็คของใบหม่อน\\changepw.png",
-        'add_to_cart': "D:\\โปรเจ็คของใบหม่อน\\add_to_cart.png", 
-        'cart': "D:\\โปรเจ็คของใบหม่อน\\cart.png", 
-        'pay': "D:\\โปรเจ็คของใบหม่อน\\pay.png", 
-        'your_order': "D:\\โปรเจ็คของใบหม่อน\\yourorder.png", 
-        
-        #ใบเสร็จ
-        'logo': "D:/โปรเจ็คของใบหม่อน/logo.png", 
-        'font_regular': "D:\\โปรเจ็คของใบหม่อน\\THSarabunNew.ttf", 
-        'font_bold': "D:\\โปรเจ็คของใบหม่อน\\THSarabunNew Bold.ttf",
-        
-        # Admin & Menu Management
-        'order': "D:\\โปรเจ็คของใบหม่อน\\see_order.png", 
-        'admin_order_details': "D:\\โปรเจ็คของใบหม่อน\\23.png",
-        'editdrinks': "D:\\โปรเจ็คของใบหม่อน\\edit.png",
-        'addmenu': "D:\\โปรเจ็คของใบหม่อน\\addmenu.png",
-        'editmenu': "D:\\โปรเจ็คของใบหม่อน\\editmenu.png",
-        'menudrink': "D:\\โปรเจ็คของใบหม่อน\\menu.png",
-        'qr_code': "D:\\โปรเจ็คของใบหม่อน\\qr_code.JPEG",
-        'sales_dashboard': "D:\\โปรเจ็คของใบหม่อน\\sales_dashboard.png",
-        #'default_slip': "D:\\โปรเจ็คของใบหม่อน\\default_slip.png",
-        'admin_menu': "D:\\โปรเจ็คของใบหม่อน\\menu_for_admin.png",
-        
-        #'default_profile_pic': "D:\\โปรเจ็คของใบหม่อน\\default_profile.png", 
-        #'default_profile_pic_small': "D:\\โปรเจ็คของใบหม่อน\\default_profile.png",
-        #'default_menu_img': "D:\\โปรเจ็คของใบหม่อน\\default_menu.png", 
-    }
+    'main': "โปรเจ็คของใบหม่อน/1.png",
+    'login': "โปรเจ็คของใบหม่อน/2.png",
+    'signup': "โปรเจ็คของใบหม่อน/3.png",
+    'about': "โปรเจ็คของใบหม่อน/about.png",
+    'table': "โปรเจ็คของใบหม่อน/table.png", 
+    'profile': "โปรเจ็คของใบหม่อน/profile.png", 
+    'edit_profile': "โปรเจ็คของใบหม่อน/editpf.png", 
+    'forgot_password': "โปรเจ็คของใบหม่อน/forgotpw.png", 
+    'change_password': "โปรเจ็คของใบหม่อน/changepw.png",
+    'add_to_cart': "โปรเจ็คของใบหม่อน/add_to_cart.png", 
+    'cart': "โปรเจ็คของใบหม่อน/cart.png", 
+    'pay': "โปรเจ็คของใบหม่อน/pay.png", 
+    'your_order': "โปรเจ็คของใบหม่อน/yourorder.png", 
+    
+    # ใบเสร็จ
+    'logo': "โปรเจ็คของใบหม่อน/logo.png", 
+    'font_regular': "โปรเจ็คของใบหม่อน/THSarabunNew.ttf", 
+    'font_bold': "โปรเจ็คของใบหม่อน/THSarabunNew Bold.ttf",
+    
+    # Admin & Menu Management
+    'order': "โปรเจ็คของใบหม่อน/see_order.png", 
+    'admin_order_details': "โปรเจ็คของใบหม่อน/23.png",
+    'editdrinks': "โปรเจ็คของใบหม่อน/edit.png",
+    'addmenu': "โปรเจ็คของใบหม่อน/addmenu.png",
+    'editmenu': "โปรเจ็คของใบหม่อน/editmenu.png",
+    'menudrink': "โปรเจ็คของใบหม่อน/menu.png",
+    'qr_code': "โปรเจ็คของใบหม่อน/qr_code.JPEG",
+    'sales_dashboard': "โปรเจ็คของใบหม่อน/sales_dashboard.png",
+    'admin_menu': "โปรเจ็คของใบหม่อน/menu_for_admin.png",
 # --- ส่วนหลักของโปรแกรม ---
 if __name__ == "__main__":
 
